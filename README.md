@@ -1,24 +1,24 @@
-<div align="center"
-
 <img src="https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon072003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Sobre mim
-<table border="1">
-  <tr>
-    <th>Estudante de Sistemas de Informção</th>
-    <th>Estagiário</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://media.tenor.com/Txr7RYfzW-EAAAAC/anime-boy.gif">
-    </td>
-    <td>
-      <img src=https://i.pinimg.com/originals/8e/d3/15/8ed31552e1dfcec55109092bef7ba3e3.gif>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="1">
+    <tr>
+      <th>Estudante de Sistemas de Informção</th>
+      <th>Estagiário</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://media.tenor.com/Txr7RYfzW-EAAAAC/anime-boy.gif">
+      </td>
+      <td>
+        <img src=https://i.pinimg.com/originals/8e/d3/15/8ed31552e1dfcec55109092bef7ba3e3.gif>
+      </td>
+    </tr>
+  </table>
+</div>
 
 #
 MINHAS REDES SOCIAIS
@@ -44,6 +44,5 @@ O QUE ESTOU ESTUDANDO ATUALMENTE
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </div>
 
-</div>
 
 
