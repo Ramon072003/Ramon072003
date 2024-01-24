@@ -5,7 +5,22 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon072003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<table border="1">
+  <tr>
+    <th>Estudante de Sistemas de Informção</th>
+    <th>GIF 2</th>
+  </tr>
+  <tr>
+    <td>
+      <h3>Título do GIF 1</h3>
+      <img src="https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif">
+    </td>
+    <td>
+      <h3>Título do GIF 2</h3>
+      <img src="caminho/do/gif2.gif" alt="GIF 2">
+    </td>
+  </tr>
+</table>
 
 #
 MINHAS REDES SOCIAIS
