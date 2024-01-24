@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://media.tenor.com/XnP_gFuTuuwAAAAM/anime-evangelion.gif">
+      <img src="https://media.tenor.com/Txr7RYfzW-EAAAAC/anime-boy.gif">
     </td>
     <td>
       <img src=https://i.pinimg.com/originals/8e/d3/15/8ed31552e1dfcec55109092bef7ba3e3.gif>
