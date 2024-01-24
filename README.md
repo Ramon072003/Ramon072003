@@ -1,7 +1,7 @@
 ### Olá, eu sou o Ramon! 👋
 
 
-<img src="https://contrafatual.files.wordpress.com/2020/02/tumblr_oo06p5we991tcg4xno1_500.gif">
+<img src="https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon072003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
