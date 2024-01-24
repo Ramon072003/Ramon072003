@@ -2,7 +2,7 @@
 
 ## Sobre mim
 <p>
-  Estudante de bacharelado em Sistemas de informação no CEFET-MG, com passagens pelo SESI de Varginha como estagiário em suporte a TI. Conhecimento em redes, manutenção de computadores, e linguagens de programação como: Python, Java, PHP e C, além de banco de dados MySql
+  Estudante de bacharelado em Sistemas de informação no CEFET-MG, com passagens pelo SESI de Varginha como estagiário em suporte a TI. Conhecimento em redes, manutenção de computadores, e linguagens de programação como: Python, Java, PHP e C, além de banco de dados MySql.
 </p>
 <div align="center">
   <table border="1">
