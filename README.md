@@ -13,7 +13,7 @@
   <tr>
     <td>
       <h3>Título do GIF 1</h3>
-      <img src="https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif">
+      <img src="https://media.tenor.com/XnP_gFuTuuwAAAAM/anime-evangelion.gif">
     </td>
     <td>
       <h3>Título do GIF 2</h3>
