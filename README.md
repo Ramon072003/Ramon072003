@@ -6,6 +6,9 @@
    <a href="https://www.instagram.com/ramon072003/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+  <a href="www.linkedin.com/in/ramon-oliveira-silva-8918b620a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
 ## Sobre mim
