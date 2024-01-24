@@ -1,8 +1,9 @@
-<img src="https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramon072003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Sobre mim
+<p>
+  Estudante de bacharelado em Sistemas de informação no CEFET-MG, com passagens pelo SESI de Varginha como estagiário em suporte a TI. Conhecimento em redes, manutenção de computadores, e linguagens de programação como: Python, Java, PHP e C, além de banco de dados MySql
+</p>
 <div align="center">
   <table border="1">
     <tr>
