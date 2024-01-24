@@ -8,7 +8,7 @@
 <table border="1">
   <tr>
     <th>Estudante de Sistemas de Informção</th>
-    <th>GIF 2</th>
+    <th>Estagiário</th>
   </tr>
   <tr>
     <td>
