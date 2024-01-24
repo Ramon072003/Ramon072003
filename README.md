@@ -15,7 +15,7 @@
       <img src="https://media.tenor.com/XnP_gFuTuuwAAAAM/anime-evangelion.gif">
     </td>
     <td>
-      <img [src=(https://i.pinimg.com/originals/8e/d3/15/8ed31552e1dfcec55109092bef7ba3e3.gif>
+      <img src=https://i.pinimg.com/originals/8e/d3/15/8ed31552e1dfcec55109092bef7ba3e3.gif>
     </td>
   </tr>
 </table>
