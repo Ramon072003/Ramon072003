@@ -15,7 +15,8 @@
   </a>
 </div>
 
-## Sobre mim
+## ![image](https://github.com/Ramon072003/Ramon072003/assets/89915603/a1000d2f-abc8-4b2b-9da9-3b907963f5b7)
+Sobre mim
 <p>
   Estudante de bacharelado em Sistemas de informação no CEFET-MG, com passagens pelo SESI de Varginha como estagiário em suporte a TI. Conhecimento em redes, manutenção de computadores, e linguagens de programação como: Python, Java, PHP e C, além de banco de dados MySql.
 </p>
