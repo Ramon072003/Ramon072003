@@ -14,7 +14,8 @@ MINHAS REDES SOCIAIS
 #
 CONHECIMENTOS
 <div style="display: inline_block"><br/>
-   <img alt="PYTHON 3" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+   <img alt="PYTHON 3" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+   <img alt="C" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white%22)"
 
 </div>
  
