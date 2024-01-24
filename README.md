@@ -12,7 +12,6 @@
   </tr>
   <tr>
     <td>
-      <h3>Título do GIF 1</h3>
       <img src="https://media.tenor.com/XnP_gFuTuuwAAAAM/anime-evangelion.gif">
     </td>
     <td>
