@@ -34,8 +34,9 @@
 </div>
 
 #
-[![Anurag's GitHub stats-tokyonight](https://github-readme-stats.vercel.app/api?username=ramon072003&show_icons=true&theme=tokyonight#gh-tokyonight-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramon072003&layout=compact&theme=tokyonight)
+<a href="https://github.com/Ramon072003">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ramon072003&show_icons=true&theme=tokyonight#gh-tokyonight-mode-only">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramon072003&layout=compact&theme=tokyonight">
 
  
 #
