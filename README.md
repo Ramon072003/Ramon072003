@@ -36,7 +36,7 @@
 #
 CONHECIMENTOS
 [![Anurag's GitHub stats-tokyonight](https://github-readme-stats.vercel.app/api?username=ramon072003&show_icons=true&theme=tokyonight#gh-tokyonight-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ramon072003)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
  
 #
 O QUE ESTOU ESTUDANDO ATUALMENTE
