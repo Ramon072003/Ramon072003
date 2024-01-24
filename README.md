@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/08/00/a7/0800a7ee0d4d8b11a7ed297dd64fb488.gif">
-  <a href="https://www.instagram.com/ramon072003/">
+</div>
+<div align="center">
+   <a href="https://www.instagram.com/ramon072003/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
